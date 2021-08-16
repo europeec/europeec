@@ -1,5 +1,17 @@
-### Hi there 👋
+## Привет! ☺️ iOS разработка - это круто 😎
 
+### О себе:
+Меня зовут Дима и мне 20 лет (на момент написания). Занимаюсь iOS разработкой и хочу в этом расти. 
+
+### Мои проекты для портфолио:
+- [Birthdays 🥳](https://github.com/europeec/Birthdays). Теги: `SwiftUI`, `CoreData`
+- [Cats 🐈‍⬛](https://github.com/europeec/Cats). Теги: `Swift`, `CoreData`, `URLSession`, `MVP`
+
+### Различные репозитории с учебными задания для ВУЗа:
+- [Java](https://github.com/europeec/java-rep) 
+- [Моя игра на Java (не для слабонервных)](https://github.com/europeec/BrokenBricks)
+- [Структуры данных](https://github.com/europeec/Homework)
+- [Мой первый репозиторий. С++ первый курс](https://github.com/europeec/ghhrmm/blob/exam-2-sem/main.cpp)
 <!--
 **europeec/europeec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
