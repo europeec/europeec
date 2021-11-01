@@ -6,6 +6,7 @@
 ### Мои проекты для портфолио:
 - [Birthdays 🥳](https://github.com/europeec/Birthdays). Теги: `SwiftUI`, `CoreData`
 - [Cats 🐈‍⬛](https://github.com/europeec/Cats). Теги: `Swift`, `CoreData`, `URLSession`, `MVP`
+- [ToDO ✅](https://github.com/europeec/ToDO). Теги: `Swift`, `Realm`, `MVP`
 
 ### Различные репозитории с учебными заданиями для ВУЗа:
 - [Java](https://github.com/europeec/java-rep) 
